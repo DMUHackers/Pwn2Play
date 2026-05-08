@@ -1,0 +1,9 @@
+Curve: secp256k1
+Message 1: Hello ECDSA! How are you today?
+r1 = 0x32fc9cc541a21eb26d189a25ef38c9b5ba9fafa8c5bd829674c26fe9911b7478
+s1 = 0x22b3eccd7f2db1fdb44ef97d367289dd8617155cfbfc0a831799574a3d34930a
+Message 2: Don't reuse nonces! (why isn't there a better word for it...)
+r2 = 0x32fc9cc541a21eb26d189a25ef38c9b5ba9fafa8c5bd829674c26fe9911b7478
+s2 = 0xc54323c83baa2420639d6308612fd3e312ad03525e9a465c27ed736dba3a6cbc
+
+Submit the flag in the format P2P<hex_of_private_key>
