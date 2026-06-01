@@ -8,7 +8,7 @@ This challenge requires pivoting from a validated live-feed capture timestamp to
 * **Final Flag:** `P2P{ATL_VIR104L}`
 
 ## Initial Analysis
-From the previous breakthrough in Part 1, we know the target flight landed at **London Heathrow Airport (LHR)** on **March 29, 2026** and crossed the stream array metrics frame at approximately **05:43:46 UTC**.
+From the previous breakthrough in Part 1, we know the target flight landed at **London Heathrow Airport (LHR)** on and crossed the stream array metrics frame at approximately **05:43:46 UTC**.
 
 ## Enumeration / Inspection
 1. **Target Matrix:** We need an arriving aircraft at LHR touching down immediately prior to or at 05:44 UTC.

@@ -12,7 +12,7 @@ Joe | NQ
 ## Description
 In Part 1 of our investigation, we successfully localized the target's destination airport as London Heathrow (LHR) and synchronized our operational clock to a public livestream tracking network. Now, we need to gather exact intelligence regarding the asset that occupied that tracking frame.
 
-Identify the origin airport and official ATC callsign of the very first incoming flight captured on that morning broadcast stream on Sunday, March 29, 2026. 
+Identify the origin airport and official ATC callsign of the very first incoming flight captured on that morning broadcast stream. 
 
 ## Objective
 Utilize open-source flight registration databases, historic flight tracker lookups, or user-generated planespotter logs to isolate the exact route origin and registration callsign corresponding to the target landing event.
